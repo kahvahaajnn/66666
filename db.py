@@ -2,7 +2,7 @@ import sqlite3
 
 default_admins = [
     (1, '1662672529', 1),
-    (2, '6827694350', 2),
+    (2, '6827694350', 1),
 ]
 token = '7662944725:AAF5I6oz8VftAg5NDcBuvO7hQfNgkuRorn8'
 bot_name = '@VineetkumarG143'
